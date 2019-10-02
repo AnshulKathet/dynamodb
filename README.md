@@ -7,5 +7,3 @@
  No guaranteer is given or implied.
  
  Have fun
-A Cloud Guru
-https://acloud.guru/
